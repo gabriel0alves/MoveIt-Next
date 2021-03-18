@@ -1,0 +1,58 @@
+.SideBarContainer {
+    flex: 1;
+    position: absolute;
+    left: 0.1px;
+    height: 100%;
+    
+    background: var(--white);
+
+    margin-right: 2rem;
+    width: max-content;
+ 
+    bottom: 0;
+    
+    padding: 15px;
+
+}
+
+
+
+.SideBarContainer > div {
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    margin: 2px;
+    
+    
+    
+}
+
+
+
+.SideBarContainer div > a  {
+    background: transparent;
+    border: 0;
+    position:relative;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    font-size: 5px;
+    padding-bottom: 3rem;
+}
+
+.SideBarContainer div > a:last-child {
+    margin-bottom: 50px;
+}
+
+.selected {
+    display: flex;
+    position: center;
+    left: 0;
+    width: 1px;
+    height: 100%;
+} 
+
+.SideBarContainerDark {
+    background: rgba(34, 22, 46, 0.76);
+}
+
