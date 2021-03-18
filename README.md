@@ -6,6 +6,7 @@
 <p align="center">
 • <a href="#--sobre-o-projeto">Sobre</a> •
   <a href="#--Tecnologias">Tecnologias</a> •
+    
 </p>
 
 
@@ -18,7 +19,7 @@ O projeto foi desenvolvido durante o evento NLW#04 - trilha de React da Rocketse
 
 Para o desenvolvimento utilizamos ReactJS e Next.js com TypeScript.
 
---- ---
+--- 
 
 ## [](https://github.com/gabriel0alves/Moveit-Next#--Tecnologias)  🛠 Tecnologias
 
@@ -37,9 +38,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Hospedagem** (**[Vercel](https://vercel.com/)**) 
 
+---
 
-
----------
- Autor:
+✏️ Autor:
 
 Feito por Gabriel Alves | Entre em contato!
