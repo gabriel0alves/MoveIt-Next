@@ -40,6 +40,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## [.]. ✏️ Autor:
+##  ✏️ Autor:
 
 Feito por Gabriel Alves | Entre em contato!
